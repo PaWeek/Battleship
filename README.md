@@ -14,12 +14,12 @@ Api with 2 endpoints:
 2. Get the generated game simulation by id.
 	
 ## Main assumptions
-Game simulation.
-2 players.
-Area 10x10 points.
-Ships are randomly set on area.
-When a player hit the ship so he will make another move.
-The player win game when all ships of second player are sink.
+* Game simulation.
+* 2 players.
+* Area 10x10 points.
+* Ships are randomly set on area.
+* When a player hit the ship so he will make another move.
+* The player win game when all ships of second player are sink.
 
 ## Technologies
 Project is created with:
